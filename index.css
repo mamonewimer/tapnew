@@ -1,0 +1,81 @@
+
+@media (min-width:319px) and (max-width:1100px) {
+
+body{   
+    font-family: 'Poppins', sans-serif;
+}}
+div{
+    display: flex;
+    justify-content: flex-end;
+    gap: 2%;
+   
+
+}
+
+.home {
+    color: #D1884F;
+    
+}
+
+.container{
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 150px;
+}
+
+.designer {
+    color: #D1884F;
+}
+
+@media (min-width: 190px) {
+
+img {
+    text-align: justify;
+
+    width: 390px;
+    margin-bottom: 10px;
+    object-fit: cover;
+    height: 250px;
+    float: right;
+    display: inline;
+
+}}
+
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 1000px;
+    height: 100px;
+}
+.hire {
+background-color: #008AAA;
+color: white;
+border-style: double;
+height: 25px;
+width: 90px;
+padding-left: 26px;
+}
+.see{
+    background-color: white;
+    color: #008AAA;
+    border-style: double;
+    height: 25px;
+    width: 126px;
+    padding-left: 26px;
+}
+
+.copy {
+    text-align: center;
+    background-color: #3ca8c0;
+    clear: both;
+    text-align: center;
+}
+@media(min-width:10px) and (max-width:10px){
+
+.lastdiv{
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+}}
